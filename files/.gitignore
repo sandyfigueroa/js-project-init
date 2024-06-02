@@ -1,8 +1,7 @@
 # Custom
-dist
+.id-tests
 
 # Logs
-.id-tests
 logs
 *.log
 npm-debug.log*
